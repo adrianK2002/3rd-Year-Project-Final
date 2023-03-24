@@ -1,4 +1,0 @@
-[[redirects]]
-from = "/*"
-to = "/welcome.php"
-status = 200
